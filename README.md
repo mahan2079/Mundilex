@@ -8,7 +8,7 @@
 
 <img src="Mundilex.png" alt="TaskTitan Logo" width="500">
 
-![MundiLex Demo](https://via.placeholder.com/800x400.png?text=MundiLex+Demo+GIF+-+Clipboard+Monitoring+%26+Flashcards)
+![MundiLex Demo]([https://via.placeholder.com/800x400.png?text=MundiLex+Demo+GIF+-+Clipboard+Monitoring+%26+Flashcards](https://github.com/mahan2079/Mundilex/tags))
 
 **Developer:** Mahan Dashti Gohari ([@Mahan2079](mailto:mahan.dashti.gohari@gmail.com))
 
