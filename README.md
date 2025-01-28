@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/yourusername/MundiLex/graphs/commit-activity)
 
 **Never lose immersion again!** MundiLex is your personal language learning sidekick that helps you understand foreign media content instantly through magical clipboard monitoring ✨
 
