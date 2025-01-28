@@ -5,6 +5,9 @@
 
 **Never lose immersion again!** MundiLex is your personal language learning sidekick that helps you understand foreign media content instantly through magical clipboard monitoring ✨
 
+
+<img src="Mundilex.png" alt="TaskTitan Logo" width="500">
+
 ![MundiLex Demo](https://via.placeholder.com/800x400.png?text=MundiLex+Demo+GIF+-+Clipboard+Monitoring+%26+Flashcards)
 
 **Developer:** Mahan Dashti Gohari ([@Mahan2079](mailto:mahan.dashti.gohari@gmail.com))
